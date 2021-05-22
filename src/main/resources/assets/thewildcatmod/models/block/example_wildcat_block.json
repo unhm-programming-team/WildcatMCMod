@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "thewildcatmod:blocks/wildcatpaw",
+    "up": "thewildcatmod:blocks/wildcatpaw",
+    "north": "thewildcatmod:blocks/wildcatpaw",
+    "east": "thewildcatmod:blocks/wildcatpaw",
+    "south": "thewildcatmod:blocks/wildcatpaw",
+    "west": "thewildcatmod:blocks/wildcatpaw",
+    "particle": "thewildcatmod:blocks/wildcatpaw"
+  }
+}

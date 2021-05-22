@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "thewildcatmod:block/example_wildcat_block"
+    }
+  }
+}
